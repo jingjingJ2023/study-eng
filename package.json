@@ -1,15 +1,15 @@
 {
-  "name": "mm88up-online",
+  "name": "mm88up-login",
   "theme": "syntax",
   "version": "1.7.0",
-  "description": "mm88up หางาน เงินดี งานง่ายๆ ทำงานที่ไหนก็ได้ มีโบนัส",
+  "description": "mm88up ทางเข้าเล่น เงินดี ทำเงินได้ง่ายๆ ทำงานที่ไหนก็ได้ มีโบนัส",
   "keywords": [
     "มีโบนัส",
-    "หางาน",
+    "ทางเข้าเล่น",
     "เงินดี",
     "mm88up",
-    "งานง่ายๆ",
-    "ทำงานที่ไหนก็ได้"
+    "ทำเงินได้ง่ายๆ",
+    "เล่นที่ไหนก็ได้"
   ],
   "repository": "https://github.com/jingjingJ2023/study-eng.git",
   "license": "MIT",
