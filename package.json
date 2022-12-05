@@ -1,0 +1,19 @@
+{
+  "name": "study-mm88-eng",
+  "theme": "syntax",
+  "version": "1.13.0",
+  "description": "สอนภาษา 8 ภาษา โหนกระแส เข้าทำงานได้ทุกที่",
+  "keywords": [
+    "สอนภาษา",
+    "8 ภาษา",
+    "เข้าทำงานได้ทุกที่",
+    "โหนกระแส",
+    "สอนภาษาออนไลน์",
+    "mm88"
+  ],
+  "repository": "https://github.com/jingjingJ2023/study-eng.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
