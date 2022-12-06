@@ -1,15 +1,15 @@
 {
-  "name": "mm88bet-login-game",
+  "name": "mm88bet-step-ball",
   "theme": "syntax",
   "version": "1.16.0",
-  "description": "mm88bet ทางเข้าเล่น เงินดี ทำเงินได้ง่ายๆ ทำงานที่ไหนก็ได้ มีโบนัส กีฬามันๆ",
+  "description": "mm88bet ทางเข้าเล่น step ทำเงินได้ง่ายๆ ทำงานที่ไหนก็ได้ มีโบนัส ball",
   "keywords": [
     "มีโบนัส",
     "ทางเข้าเล่น",
-    "เงินดี",
+    "step",
     "mm88bet",
     "ทำเงินได้ง่ายๆ",
-    "เล่นที่ไหนก็ได้"
+    "ball"
   ],
   "repository": "https://github.com/jingjingJ2023/study-eng.git",
   "license": "MIT",
